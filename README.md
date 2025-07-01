@@ -32,4 +32,23 @@ Silakan import file ini ke database Anda melalui **phpMyAdmin** atau alat lain. 
 ---
 
 ## 🧾 Struktur Folder Penting
+public/ # Aset publik aplikasi
+├── resources/views/ # Semua file tampilan (Blade)
+├── routes/web.php # Routing aplikasi
+├── mahasiswa_db.sql # File SQL database siap pakai
+├── README.md # Dokumentasi
+
+---
+
+## 🧑‍💻 Developer
+
+**Yogi Bastian**  
+22552011058  
+Universitas Teknologi Bandung
+
+---
+
+## 🏷️ Lisensi
+
+Proyek ini dibuat untuk keperluan pembelajaran. Silakan digunakan dan dimodifikasi sesuai kebutuhan.
 
