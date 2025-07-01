@@ -1,20 +1,35 @@
-# Aplikasi CRUD Data Mahasiswa (Laravel)
+# 📘 Aplikasi CRUD Data Mahasiswa - Laravel
 
-Ini adalah aplikasi sederhana berbasis Laravel untuk mengelola data mahasiswa. Aplikasi ini mendukung fitur **CRUD (Create, Read, Update, Delete)** dengan tampilan yang modern dan responsif.
+Aplikasi berbasis Laravel untuk mengelola data mahasiswa, termasuk fitur CRUD, upload foto, dan pengaturan tampilan.
 
-## 📦 Fitur Utama
+---
 
-- Tambah, edit, dan hapus data mahasiswa
-- Tampilan daftar dan biodata mahasiswa dalam dua kolom
-- Sidebar responsif dan bisa dikompres
-- Mode tampilan terang dan gelap (dark mode)
-- Halaman pengaturan tampilan
-- Halaman sambutan (welcome page)
-- Tanpa fitur login (akses langsung)
+## 🎓 Tentang Proyek
 
-## 🛠️ Instalasi
+Proyek ini dikembangkan sebagai tugas pembuatan aplikasi Laravel sederhana tanpa sistem login. Aplikasi ini menampilkan data mahasiswa dengan fitur-fitur menarik dan antarmuka yang responsif.
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/mahasiswa-crud.git
-   cd mahasiswa-crud
+---
+
+## ✨ Fitur Utama
+
+- Tambah, Edit, Hapus, dan Lihat Data Mahasiswa
+- Upload Foto Mahasiswa
+- Tampilan Dark Mode / Light Mode
+- Halaman Welcome sebelum masuk aplikasi
+- Sidebar interaktif untuk navigasi
+- File database `.sql` siap digunakan
+
+---
+
+## 🗃️ Database
+
+File SQL database disertakan dan dapat langsung digunakan:
+
+> 📄 **mahasiswa_db.sql**
+
+Silakan import file ini ke database Anda melalui **phpMyAdmin** atau alat lain. Tidak perlu melakukan migrasi manual.
+
+---
+
+## 🧾 Struktur Folder Penting
+
